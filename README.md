@@ -1,3 +1,3 @@
 # AiSD
 
-All of the excercises I've done on 'Algorithms and Data Structures I' course.
+Zadania z kursu "Algorytmy i Struktury Danych I"
